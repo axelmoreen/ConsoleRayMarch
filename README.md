@@ -1,6 +1,6 @@
 # Console Ray March
 Simple ASCII renderer using the ray march algorithm
+![2022-05-12 04-53-36](https://user-images.githubusercontent.com/16216664/168046450-cb34bb56-475c-483f-a830-9dbed1fe5a74.gif)
+![2022-05-12 04-33-57](https://user-images.githubusercontent.com/16216664/168046472-fb107b4f-cd8c-4006-96af-c2ffe97b5f9e.gif)
 
-![Cube](https://user-images.githubusercontent.com/16216664/168045451-990c1ee6-f091-45a5-80e1-73bfc69f30e0.mp4)
-![Torus](https://user-images.githubusercontent.com/16216664/168045461-7535d598-be84-4d34-9993-e49c8ac61de5.mp4)
 
