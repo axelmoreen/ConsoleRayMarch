@@ -1,6 +1,6 @@
 # Console Ray March
 
-Simple ASCII renderer using the ray march algorithm
+Simple ASCII renderer of 3D objects using the ray march algorithm
 
 ![Torus](https://user-images.githubusercontent.com/16216664/168046973-7e8a3314-a695-4de4-a166-972900054a7e.gif)
 
